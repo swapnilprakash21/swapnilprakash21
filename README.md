@@ -43,7 +43,7 @@ I'm a passionate **Web Developer** with expertise in building dynamic and respon
 
 ### 🌟 Featured Projects:
 
-#### [**eNotebook**](#)
+#### [**eNotebook**](https://www.myenotebook.com)
 ![Next.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -51,7 +51,7 @@ I'm a passionate **Web Developer** with expertise in building dynamic and respon
 - **Tech Stack:** Next.js, Redux, MongoDB, Material-UI
 - **Features:** Limitless notes, Distinguished RTE, Unlimited storage, Collection management
 
-#### [**Intelligen AI**](#)
+#### [**Intelligen AI**](https://www.theintelligenai.com)
 ![Next.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
